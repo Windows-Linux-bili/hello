@@ -8,8 +8,10 @@
 <li>6.必应（主页）点蓝字就可以进入啦！<a href="https://cn.bing.com/?mkt=zh-CN">bing入口</a>
 <li>7.win10点蓝字就可以下载啦！<a href="https://www.microsoft.com/zh-cn/software-download/windows10">win10入口</a>
 <li>8.其他纯净系统（Microsoft download）点蓝字就可以下载啦！<a href="https://msdn.itellyou.cn/">msdn入口</a>        <a href="https://next.itellyou.cn/">next，msdn入口</a>
-<li>9.您使用迅雷等搜索资源式下载工具下载资源，发现MD5值验证不对时，很可能是这类型工具自动链接搜索到挂木马的下载资源了，建议使用MD5校验器，验证下载后的文件是否与服务器上的文件一致！！！
-<li>10.您在下载安装过程中如果遇到问题，可通过联系QQ：<strong><font color="#3eb33e">2513610934</font></strong> 寻求解决方法哦！</li>
+<li>9.VMware-中国点蓝字就可以进入啦！<a href="https://www.vmware.com/cn.html">VMware入口</a>
+<li>10.Ubuntu吧点蓝字就可以进入啦！<a href="https://tieba.baidu.com/f?ie=utf-8&kw=ubuntu">Ubuntu入口</a> 
+<li>11.您使用迅雷等搜索资源式下载工具下载资源，发现MD5值验证不对时，很可能是这类型工具自动链接搜索到挂木马的下载资源了，建议使用MD5校验器，验证下载后的文件是否与服务器上的文件一致！！！
+<li>12.您在下载安装过程中如果遇到问题，可通过联系QQ：<strong><font color="#3eb33e">2513610934</font></strong> 寻求解决方法哦！</li>
 <h3>解压密码：（无密码的压缩包请忽略，这个密码只是压缩包的）</h3>
 <li>默认解压密码为<font color="#ff000">abcd1234或1</font>！如果解压密码不正确，请联系QQ：<font color="#3eb33e">2513610934</font></li>
 
