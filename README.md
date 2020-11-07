@@ -1,4 +1,4 @@
-<li>尊敬的用户：欢迎来到<a href="https://windows-linux-bili.github.io/hello/">mxd的网站！</a> <a class="download" href="https://windows-linux-bili.github.io/hello/"></a>
+<li>尊敬的用户：欢迎来到<a href="https://windows-linux-bili.github.io/home/">mxd的网站！(点蓝字查看更多mxd写的网页)</a> <a class="download" href="https://windows-linux-bili.github.io/hello/"></a>
   <h3>常用软件和提醒：</h3>
 <li>1.常用压缩软件下载链接点蓝字就可以下载啦！<a href="https://www.anxz.com/down/1.html">压缩软件入口</a>
 <li>2.常用运行库软件下载链接点蓝字就可以下载啦！（说明：运行库是可以防止电脑隔三差五就出现xxx.dll丢失的问题的）<a href="https://www.anxz.com/down/7544.html">运行库软件入口</a>
