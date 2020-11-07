@@ -16,9 +16,9 @@
 <li>默认解压密码为<font color="#ff000">abcd1234或1</font>！如果解压密码不正确，请联系QQ：<font color="#3eb33e">2513610934</font></li>
 <h3>机器人</h3>
 <li>请联系QQ：2513610934加好友后回复字母jqr，就可以更改了</li>
+<h3>关于<h3>
+<li><li>持续更新中——mxd</li>
 
-<li><li>持续更新中——mxd       </li>
+<li><li>链接失效请私聊qq：2513610934</li>         
 
-<li><li>链接失效请私聊qq：2513610934 </li>         
-
-<li><li>感谢：GitHub      </li>
+<li><li>感谢：GitHub</li>
