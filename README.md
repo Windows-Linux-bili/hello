@@ -11,7 +11,6 @@
 <li>9.VMware-中国点蓝字就可以进入啦！<a href="https://www.vmware.com/cn.html">VMware入口</a>
 <li>10.Ubuntu吧点蓝字就可以进入啦！<a href="https://tieba.baidu.com/f?ie=utf-8&kw=ubuntu">Ubuntu入口</a> 
 <li>11.您使用迅雷等搜索资源式下载工具下载资源，发现MD5值验证不对时，很可能是这类型工具自动链接搜索到挂木马的下载资源了，建议使用MD5校验器，验证下载后的文件是否与服务器上的文件一致！！！
-<li>12.您在下载安装过程中如果遇到问题，可通过联系QQ：<strong><font color="#3eb33e">2513610934</font></strong> 寻求解决方法哦！</li>
 <h3>关于<h3>
 <li><li>持续更新中——mxd</li>
 <li><li>链接失效请私聊qq：2513610934</li>         
